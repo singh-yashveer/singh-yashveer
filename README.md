@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/singh-yashveer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.instagram.com/yashvxxr.singh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="insta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yashvxxr.singh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="insta" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
