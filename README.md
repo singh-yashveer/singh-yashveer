@@ -15,6 +15,8 @@
 <a href="https://twitter.com/Citron5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweet" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/singh-yashveer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yashvxxr.singh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="insta" height="30" width="30" /></a>
+<a href="https://steamcommunity.com/id/citrongaming/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png?20220611141426" alt="insta" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/226010558137237514" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="insta" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
