@@ -2,13 +2,12 @@
 
 <h3 align="center">A CSE undergrad & FrontEnd Engineer.  </h3>
 
-\
-##🌱 I’m currently learning **everything I feel like!**\
-##👯 I’m looking to collaborate on **any project(s) that I can learn from**\
-##💬 Ask me about **anything you want**\
-##📫 How to reach me: **yashveer31072001@gmail.com**\
-##😄 Pronouns: He/Him\
-##⚡ Fun fact: *I have no idea how anything works*
+### 🌱 I’m currently learning **everything I feel like!**
+### 👯 I’m looking to collaborate on **any project(s) that I can learn from**
+### 💬 Ask me about **anything you want**
+### 📫 How to reach me: **yashveer31072001@gmail.com**
+### 😄 Pronouns: He/Him
+### ⚡ Fun fact: *I have no idea how anything works*
 
 
 <h3 align="left">Connect with me:</h3>
