@@ -1,9 +1,6 @@
 <h1 align="center"> Hi, I'm Yashveer Singh 👋</h1>
 
 <h3 align="center">A CSE undergrad & FrontEnd Engineer.  </h3>
-<p align="center">
-<img width='900' height='350' src="https://raw.githubusercontent.com/Citron5007/main/BANNER.png">
-</p>
 ### 🌱 I’m currently learning **everything I feel like!**
 ### 👯 I’m looking to collaborate on **any project(s) that I can learn from**
 ### 💬 Ask me about **anything you want**
