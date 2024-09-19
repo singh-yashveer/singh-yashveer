@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-yashveer&theme=darkhub" alt="singh-yashveer" /></a> </p>
 
-### 🌱 I’m currently learning **everything I feel like!**
+### 🌱 I’m currently learning **React Native**
 ### 👯 I’m looking to collaborate on **any project(s) that I can learn from**
 ### 💬 Ask me about **anything you want**
 ### 📫 How to reach me: **yashveer31072001@gmail.com**
