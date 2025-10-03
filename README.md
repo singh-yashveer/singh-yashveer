@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Yashveer+Singh+%F0%9F%91%8B;Frontend+Engineer+%7C+2%2B+Years;Performance+%2B+Animations+%3D+%E2%9D%A4%EF%B8%8F;Building+Fast+%26+Beautiful+UIs" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <h1 style="font-size: 3em; margin: 20px 0;">
+    <b>Pixels powered by purpose</b>
+  </h1>
+</div>
+
 <br/>
 
 <div align="center">
@@ -37,6 +43,14 @@ const yashveer = {
     }
 };
 ```
+
+<div align="center">
+  
+### 🌐 Want to see more? Check out my website: **[yashveer.dev](https://yashveer.dev)**
+
+</div>
+
+<br/>
 
 ## 🛠️ Tech Arsenal
 
@@ -114,8 +128,6 @@ const yashveer = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashveer31072001@gmail.com)
 
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
